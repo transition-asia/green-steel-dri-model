@@ -1,0 +1,11 @@
+# conda env create -f environment.yml && conda activate green-steel-ap
+name: green-steel-ap
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - pandas>=2.2
+  - numpy>=2.0
+  - scipy>=1.14
+  - openpyxl>=3.1
+  - highspy>=1.7              # the LP solver (open source)

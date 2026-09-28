@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+~$*
+india/results/Results_Scenario_Campaign.csv
+india/results/Results_RoutePowerH2.csv
+india/results/solve_one_*.csv
